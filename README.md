@@ -26,7 +26,7 @@ Este projeto simples, mas significativo, me ajudou a fixar os conceitos básicos
 
 Você pode interagir com esta calculadora diretamente no meu GitHub Pages!
 
-Acesse aqui: **[Calculadora Rosa Redonda V3.0](https://gleysianekelle.github.io/calculadora-rosa-redonda/) 
+Acesse aqui: [Calculadora Rosa Redonda V3.0](https://gleysianekelle.github.io/calculadora-rosa-redonda/) 
 
 ---
 
